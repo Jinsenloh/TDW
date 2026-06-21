@@ -1,0 +1,337 @@
+date,state,sex,age,ethnicity,population
+2020-01-01,Johor,both,overall,overall,3854.9
+2020-01-01,Johor,male,overall,overall,1966.0
+2020-01-01,Johor,female,overall,overall,1888.9
+2020-01-01,Kedah,both,overall,overall,2165.7
+2020-01-01,Kedah,male,overall,overall,1104.5
+2020-01-01,Kedah,female,overall,overall,1061.2
+2020-01-01,Kelantan,both,overall,overall,1898.8
+2020-01-01,Kelantan,male,overall,overall,968.4
+2020-01-01,Kelantan,female,overall,overall,930.4
+2020-01-01,Melaka,both,overall,overall,1001.6
+2020-01-01,Melaka,male,overall,overall,510.8
+2020-01-01,Melaka,female,overall,overall,490.8
+2020-01-01,Negeri Sembilan,both,overall,overall,1180.6
+2020-01-01,Negeri Sembilan,male,overall,overall,602.1
+2020-01-01,Negeri Sembilan,female,overall,overall,578.5
+2020-01-01,Pahang,both,overall,overall,1691.2
+2020-01-01,Pahang,male,overall,overall,862.5
+2020-01-01,Pahang,female,overall,overall,828.7
+2020-01-01,Pulau Pinang,both,overall,overall,1766.6
+2020-01-01,Pulau Pinang,male,overall,overall,900.9
+2020-01-01,Pulau Pinang,female,overall,overall,865.6
+2020-01-01,Perak,both,overall,overall,2481.4
+2020-01-01,Perak,male,overall,overall,1265.5
+2020-01-01,Perak,female,overall,overall,1215.9
+2020-01-01,Perlis,both,overall,overall,261.2
+2020-01-01,Perlis,male,overall,overall,133.2
+2020-01-01,Perlis,female,overall,overall,128.0
+2020-01-01,Selangor,both,overall,overall,6937.2
+2020-01-01,Selangor,male,overall,overall,3538.0
+2020-01-01,Selangor,female,overall,overall,3399.2
+2020-01-01,Terengganu,both,overall,overall,1317.5
+2020-01-01,Terengganu,male,overall,overall,671.9
+2020-01-01,Terengganu,female,overall,overall,645.6
+2020-01-01,Sabah,both,overall,overall,3957.7
+2020-01-01,Sabah,male,overall,overall,2018.4
+2020-01-01,Sabah,female,overall,overall,1939.3
+2020-01-01,Sarawak,both,overall,overall,2903.7
+2020-01-01,Sarawak,male,overall,overall,1480.9
+2020-01-01,Sarawak,female,overall,overall,1422.8
+2020-01-01,W.P. Kuala Lumpur,both,overall,overall,1776.2
+2020-01-01,W.P. Kuala Lumpur,male,overall,overall,905.9
+2020-01-01,W.P. Kuala Lumpur,female,overall,overall,870.3
+2020-01-01,W.P. Labuan,both,overall,overall,100.3
+2020-01-01,W.P. Labuan,male,overall,overall,51.1
+2020-01-01,W.P. Labuan,female,overall,overall,49.1
+2020-01-01,W.P. Putrajaya,both,overall,overall,117.7
+2020-01-01,W.P. Putrajaya,male,overall,overall,60.0
+2020-01-01,W.P. Putrajaya,female,overall,overall,57.7
+2021-01-01,Johor,both,overall,overall,3790.8
+2021-01-01,Johor,male,overall,overall,1933.3
+2021-01-01,Johor,female,overall,overall,1857.5
+2021-01-01,Kedah,both,overall,overall,2196.0
+2021-01-01,Kedah,male,overall,overall,1120.0
+2021-01-01,Kedah,female,overall,overall,1076.0
+2021-01-01,Kelantan,both,overall,overall,1935.7
+2021-01-01,Kelantan,male,overall,overall,987.2
+2021-01-01,Kelantan,female,overall,overall,948.5
+2021-01-01,Melaka,both,overall,overall,993.4
+2021-01-01,Melaka,male,overall,overall,506.6
+2021-01-01,Melaka,female,overall,overall,486.8
+2021-01-01,Negeri Sembilan,both,overall,overall,1211.2
+2021-01-01,Negeri Sembilan,male,overall,overall,617.7
+2021-01-01,Negeri Sembilan,female,overall,overall,593.5
+2021-01-01,Pahang,both,overall,overall,1722.7
+2021-01-01,Pahang,male,overall,overall,878.6
+2021-01-01,Pahang,female,overall,overall,844.1
+2021-01-01,Pulau Pinang,both,overall,overall,1782.9
+2021-01-01,Pulau Pinang,male,overall,overall,909.3
+2021-01-01,Pulau Pinang,female,overall,overall,873.6
+2021-01-01,Perak,both,overall,overall,2539.5
+2021-01-01,Perak,male,overall,overall,1295.1
+2021-01-01,Perak,female,overall,overall,1244.3
+2021-01-01,Perlis,both,overall,overall,255.8
+2021-01-01,Perlis,male,overall,overall,130.5
+2021-01-01,Perlis,female,overall,overall,125.4
+2021-01-01,Selangor,both,overall,overall,6863.5
+2021-01-01,Selangor,male,overall,overall,3500.4
+2021-01-01,Selangor,female,overall,overall,3363.1
+2021-01-01,Terengganu,both,overall,overall,1313.7
+2021-01-01,Terengganu,male,overall,overall,670.0
+2021-01-01,Terengganu,female,overall,overall,643.7
+2021-01-01,Sabah,both,overall,overall,3872.7
+2021-01-01,Sabah,male,overall,overall,1975.1
+2021-01-01,Sabah,female,overall,overall,1897.6
+2021-01-01,Sarawak,both,overall,overall,2911.9
+2021-01-01,Sarawak,male,overall,overall,1485.1
+2021-01-01,Sarawak,female,overall,overall,1426.8
+2021-01-01,W.P. Kuala Lumpur,both,overall,overall,1797.6
+2021-01-01,W.P. Kuala Lumpur,male,overall,overall,916.8
+2021-01-01,W.P. Kuala Lumpur,female,overall,overall,880.8
+2021-01-01,W.P. Labuan,both,overall,overall,99.1
+2021-01-01,W.P. Labuan,male,overall,overall,50.5
+2021-01-01,W.P. Labuan,female,overall,overall,48.5
+2021-01-01,W.P. Putrajaya,both,overall,overall,119.5
+2021-01-01,W.P. Putrajaya,male,overall,overall,60.9
+2021-01-01,W.P. Putrajaya,female,overall,overall,58.6
+2022-01-01,Johor,both,overall,overall,3792.6
+2022-01-01,Johor,male,overall,overall,1934.2
+2022-01-01,Johor,female,overall,overall,1858.4
+2022-01-01,Kedah,both,overall,overall,2185.2
+2022-01-01,Kedah,male,overall,overall,1114.4
+2022-01-01,Kedah,female,overall,overall,1070.7
+2022-01-01,Kelantan,both,overall,overall,1872.0
+2022-01-01,Kelantan,male,overall,overall,954.7
+2022-01-01,Kelantan,female,overall,overall,917.3
+2022-01-01,Melaka,both,overall,overall,989.7
+2022-01-01,Melaka,male,overall,overall,504.8
+2022-01-01,Melaka,female,overall,overall,485.0
+2022-01-01,Negeri Sembilan,both,overall,overall,1212.9
+2022-01-01,Negeri Sembilan,male,overall,overall,618.6
+2022-01-01,Negeri Sembilan,female,overall,overall,594.3
+2022-01-01,Pahang,both,overall,overall,1675.4
+2022-01-01,Pahang,male,overall,overall,854.4
+2022-01-01,Pahang,female,overall,overall,820.9
+2022-01-01,Pulau Pinang,both,overall,overall,1816.1
+2022-01-01,Pulau Pinang,male,overall,overall,926.2
+2022-01-01,Pulau Pinang,female,overall,overall,889.9
+2022-01-01,Perak,both,overall,overall,2502.4
+2022-01-01,Perak,male,overall,overall,1276.2
+2022-01-01,Perak,female,overall,overall,1226.2
+2022-01-01,Perlis,both,overall,overall,257.3
+2022-01-01,Perlis,male,overall,overall,131.2
+2022-01-01,Perlis,female,overall,overall,126.1
+2022-01-01,Selangor,both,overall,overall,7106.1
+2022-01-01,Selangor,male,overall,overall,3624.1
+2022-01-01,Selangor,female,overall,overall,3482.0
+2022-01-01,Terengganu,both,overall,overall,1275.7
+2022-01-01,Terengganu,male,overall,overall,650.6
+2022-01-01,Terengganu,female,overall,overall,625.1
+2022-01-01,Sabah,both,overall,overall,3972.8
+2022-01-01,Sabah,male,overall,overall,2026.1
+2022-01-01,Sabah,female,overall,overall,1946.7
+2022-01-01,Sarawak,both,overall,overall,2948.0
+2022-01-01,Sarawak,male,overall,overall,1503.5
+2022-01-01,Sarawak,female,overall,overall,1444.5
+2022-01-01,W.P. Kuala Lumpur,both,overall,overall,1789.5
+2022-01-01,W.P. Kuala Lumpur,male,overall,overall,912.6
+2022-01-01,W.P. Kuala Lumpur,female,overall,overall,876.9
+2022-01-01,W.P. Labuan,both,overall,overall,99.0
+2022-01-01,W.P. Labuan,male,overall,overall,50.5
+2022-01-01,W.P. Labuan,female,overall,overall,48.5
+2022-01-01,W.P. Putrajaya,both,overall,overall,121.9
+2022-01-01,W.P. Putrajaya,male,overall,overall,62.1
+2022-01-01,W.P. Putrajaya,female,overall,overall,59.7
+2023-01-01,Johor,both,overall,overall,3739.7
+2023-01-01,Johor,male,overall,overall,1907.2
+2023-01-01,Johor,female,overall,overall,1832.4
+2023-01-01,Kedah,both,overall,overall,2238.0
+2023-01-01,Kedah,male,overall,overall,1141.4
+2023-01-01,Kedah,female,overall,overall,1096.6
+2023-01-01,Kelantan,both,overall,overall,1862.7
+2023-01-01,Kelantan,male,overall,overall,950.0
+2023-01-01,Kelantan,female,overall,overall,912.7
+2023-01-01,Melaka,both,overall,overall,1016.7
+2023-01-01,Melaka,male,overall,overall,518.5
+2023-01-01,Melaka,female,overall,overall,498.2
+2023-01-01,Negeri Sembilan,both,overall,overall,1188.0
+2023-01-01,Negeri Sembilan,male,overall,overall,605.9
+2023-01-01,Negeri Sembilan,female,overall,overall,582.1
+2023-01-01,Pahang,both,overall,overall,1700.9
+2023-01-01,Pahang,male,overall,overall,867.5
+2023-01-01,Pahang,female,overall,overall,833.4
+2023-01-01,Pulau Pinang,both,overall,overall,1825.7
+2023-01-01,Pulau Pinang,male,overall,overall,931.1
+2023-01-01,Pulau Pinang,female,overall,overall,894.6
+2023-01-01,Perak,both,overall,overall,2490.1
+2023-01-01,Perak,male,overall,overall,1270.0
+2023-01-01,Perak,female,overall,overall,1220.2
+2023-01-01,Perlis,both,overall,overall,264.5
+2023-01-01,Perlis,male,overall,overall,134.9
+2023-01-01,Perlis,female,overall,overall,129.6
+2023-01-01,Selangor,both,overall,overall,7015.7
+2023-01-01,Selangor,male,overall,overall,3578.0
+2023-01-01,Selangor,female,overall,overall,3437.7
+2023-01-01,Terengganu,both,overall,overall,1325.0
+2023-01-01,Terengganu,male,overall,overall,675.7
+2023-01-01,Terengganu,female,overall,overall,649.2
+2023-01-01,Sabah,both,overall,overall,3915.8
+2023-01-01,Sabah,male,overall,overall,1997.1
+2023-01-01,Sabah,female,overall,overall,1918.7
+2023-01-01,Sarawak,both,overall,overall,2883.0
+2023-01-01,Sarawak,male,overall,overall,1470.3
+2023-01-01,Sarawak,female,overall,overall,1412.7
+2023-01-01,W.P. Kuala Lumpur,both,overall,overall,1812.7
+2023-01-01,W.P. Kuala Lumpur,male,overall,overall,924.5
+2023-01-01,W.P. Kuala Lumpur,female,overall,overall,888.2
+2023-01-01,W.P. Labuan,both,overall,overall,101.8
+2023-01-01,W.P. Labuan,male,overall,overall,51.9
+2023-01-01,W.P. Labuan,female,overall,overall,49.9
+2023-01-01,W.P. Putrajaya,both,overall,overall,118.5
+2023-01-01,W.P. Putrajaya,male,overall,overall,60.4
+2023-01-01,W.P. Putrajaya,female,overall,overall,58.1
+2024-01-01,Johor,both,overall,overall,3777.3
+2024-01-01,Johor,male,overall,overall,1926.4
+2024-01-01,Johor,female,overall,overall,1850.9
+2024-01-01,Kedah,both,overall,overall,2165.3
+2024-01-01,Kedah,male,overall,overall,1104.3
+2024-01-01,Kedah,female,overall,overall,1061.0
+2024-01-01,Kelantan,both,overall,overall,1890.8
+2024-01-01,Kelantan,male,overall,overall,964.3
+2024-01-01,Kelantan,female,overall,overall,926.5
+2024-01-01,Melaka,both,overall,overall,987.9
+2024-01-01,Melaka,male,overall,overall,503.8
+2024-01-01,Melaka,female,overall,overall,484.1
+2024-01-01,Negeri Sembilan,both,overall,overall,1192.1
+2024-01-01,Negeri Sembilan,male,overall,overall,608.0
+2024-01-01,Negeri Sembilan,female,overall,overall,584.1
+2024-01-01,Pahang,both,overall,overall,1709.2
+2024-01-01,Pahang,male,overall,overall,871.7
+2024-01-01,Pahang,female,overall,overall,837.5
+2024-01-01,Pulau Pinang,both,overall,overall,1806.1
+2024-01-01,Pulau Pinang,male,overall,overall,921.1
+2024-01-01,Pulau Pinang,female,overall,overall,885.0
+2024-01-01,Perak,both,overall,overall,2503.9
+2024-01-01,Perak,male,overall,overall,1277.0
+2024-01-01,Perak,female,overall,overall,1226.9
+2024-01-01,Perlis,both,overall,overall,264.7
+2024-01-01,Perlis,male,overall,overall,135.0
+2024-01-01,Perlis,female,overall,overall,129.7
+2024-01-01,Selangor,both,overall,overall,6860.0
+2024-01-01,Selangor,male,overall,overall,3498.6
+2024-01-01,Selangor,female,overall,overall,3361.4
+2024-01-01,Terengganu,both,overall,overall,1319.3
+2024-01-01,Terengganu,male,overall,overall,672.9
+2024-01-01,Terengganu,female,overall,overall,646.5
+2024-01-01,Sabah,both,overall,overall,3905.0
+2024-01-01,Sabah,male,overall,overall,1991.5
+2024-01-01,Sabah,female,overall,overall,1913.4
+2024-01-01,Sarawak,both,overall,overall,2874.2
+2024-01-01,Sarawak,male,overall,overall,1465.8
+2024-01-01,Sarawak,female,overall,overall,1408.4
+2024-01-01,W.P. Kuala Lumpur,both,overall,overall,1819.8
+2024-01-01,W.P. Kuala Lumpur,male,overall,overall,928.1
+2024-01-01,W.P. Kuala Lumpur,female,overall,overall,891.7
+2024-01-01,W.P. Labuan,both,overall,overall,101.5
+2024-01-01,W.P. Labuan,male,overall,overall,51.8
+2024-01-01,W.P. Labuan,female,overall,overall,49.7
+2024-01-01,W.P. Putrajaya,both,overall,overall,119.0
+2024-01-01,W.P. Putrajaya,male,overall,overall,60.7
+2024-01-01,W.P. Putrajaya,female,overall,overall,58.3
+2025-01-01,Johor,both,overall,overall,3786.2
+2025-01-01,Johor,male,overall,overall,1930.9
+2025-01-01,Johor,female,overall,overall,1855.2
+2025-01-01,Kedah,both,overall,overall,2185.2
+2025-01-01,Kedah,male,overall,overall,1114.4
+2025-01-01,Kedah,female,overall,overall,1070.7
+2025-01-01,Kelantan,both,overall,overall,1908.1
+2025-01-01,Kelantan,male,overall,overall,973.1
+2025-01-01,Kelantan,female,overall,overall,935.0
+2025-01-01,Melaka,both,overall,overall,987.3
+2025-01-01,Melaka,male,overall,overall,503.5
+2025-01-01,Melaka,female,overall,overall,483.8
+2025-01-01,Negeri Sembilan,both,overall,overall,1206.3
+2025-01-01,Negeri Sembilan,male,overall,overall,615.2
+2025-01-01,Negeri Sembilan,female,overall,overall,591.1
+2025-01-01,Pahang,both,overall,overall,1677.1
+2025-01-01,Pahang,male,overall,overall,855.3
+2025-01-01,Pahang,female,overall,overall,821.8
+2025-01-01,Pulau Pinang,both,overall,overall,1784.9
+2025-01-01,Pulau Pinang,male,overall,overall,910.3
+2025-01-01,Pulau Pinang,female,overall,overall,874.6
+2025-01-01,Perak,both,overall,overall,2480.4
+2025-01-01,Perak,male,overall,overall,1265.0
+2025-01-01,Perak,female,overall,overall,1215.4
+2025-01-01,Perlis,both,overall,overall,260.7
+2025-01-01,Perlis,male,overall,overall,133.0
+2025-01-01,Perlis,female,overall,overall,127.7
+2025-01-01,Selangor,both,overall,overall,6933.3
+2025-01-01,Selangor,male,overall,overall,3536.0
+2025-01-01,Selangor,female,overall,overall,3397.3
+2025-01-01,Terengganu,both,overall,overall,1287.1
+2025-01-01,Terengganu,male,overall,overall,656.4
+2025-01-01,Terengganu,female,overall,overall,630.7
+2025-01-01,Sabah,both,overall,overall,3846.4
+2025-01-01,Sabah,male,overall,overall,1961.7
+2025-01-01,Sabah,female,overall,overall,1884.8
+2025-01-01,Sarawak,both,overall,overall,2892.5
+2025-01-01,Sarawak,male,overall,overall,1475.2
+2025-01-01,Sarawak,female,overall,overall,1417.3
+2025-01-01,W.P. Kuala Lumpur,both,overall,overall,1804.1
+2025-01-01,W.P. Kuala Lumpur,male,overall,overall,920.1
+2025-01-01,W.P. Kuala Lumpur,female,overall,overall,884.0
+2025-01-01,W.P. Labuan,both,overall,overall,98.6
+2025-01-01,W.P. Labuan,male,overall,overall,50.3
+2025-01-01,W.P. Labuan,female,overall,overall,48.3
+2025-01-01,W.P. Putrajaya,both,overall,overall,121.2
+2025-01-01,W.P. Putrajaya,male,overall,overall,61.8
+2025-01-01,W.P. Putrajaya,female,overall,overall,59.4
+2026-01-01,Johor,both,overall,overall,3728.9
+2026-01-01,Johor,male,overall,overall,1901.7
+2026-01-01,Johor,female,overall,overall,1827.1
+2026-01-01,Kedah,both,overall,overall,2185.8
+2026-01-01,Kedah,male,overall,overall,1114.8
+2026-01-01,Kedah,female,overall,overall,1071.1
+2026-01-01,Kelantan,both,overall,overall,1929.5
+2026-01-01,Kelantan,male,overall,overall,984.1
+2026-01-01,Kelantan,female,overall,overall,945.5
+2026-01-01,Melaka,both,overall,overall,1009.2
+2026-01-01,Melaka,male,overall,overall,514.7
+2026-01-01,Melaka,female,overall,overall,494.5
+2026-01-01,Negeri Sembilan,both,overall,overall,1209.2
+2026-01-01,Negeri Sembilan,male,overall,overall,616.7
+2026-01-01,Negeri Sembilan,female,overall,overall,592.5
+2026-01-01,Pahang,both,overall,overall,1732.5
+2026-01-01,Pahang,male,overall,overall,883.6
+2026-01-01,Pahang,female,overall,overall,848.9
+2026-01-01,Pulau Pinang,both,overall,overall,1769.3
+2026-01-01,Pulau Pinang,male,overall,overall,902.4
+2026-01-01,Pulau Pinang,female,overall,overall,867.0
+2026-01-01,Perak,both,overall,overall,2476.5
+2026-01-01,Perak,male,overall,overall,1263.0
+2026-01-01,Perak,female,overall,overall,1213.5
+2026-01-01,Perlis,both,overall,overall,263.2
+2026-01-01,Perlis,male,overall,overall,134.2
+2026-01-01,Perlis,female,overall,overall,129.0
+2026-01-01,Selangor,both,overall,overall,7047.2
+2026-01-01,Selangor,male,overall,overall,3594.1
+2026-01-01,Selangor,female,overall,overall,3453.1
+2026-01-01,Terengganu,both,overall,overall,1288.0
+2026-01-01,Terengganu,male,overall,overall,656.9
+2026-01-01,Terengganu,female,overall,overall,631.1
+2026-01-01,Sabah,both,overall,overall,3842.0
+2026-01-01,Sabah,male,overall,overall,1959.4
+2026-01-01,Sabah,female,overall,overall,1882.6
+2026-01-01,Sarawak,both,overall,overall,2850.2
+2026-01-01,Sarawak,male,overall,overall,1453.6
+2026-01-01,Sarawak,female,overall,overall,1396.6
+2026-01-01,W.P. Kuala Lumpur,both,overall,overall,1794.4
+2026-01-01,W.P. Kuala Lumpur,male,overall,overall,915.1
+2026-01-01,W.P. Kuala Lumpur,female,overall,overall,879.3
+2026-01-01,W.P. Labuan,both,overall,overall,99.1
+2026-01-01,W.P. Labuan,male,overall,overall,50.6
+2026-01-01,W.P. Labuan,female,overall,overall,48.6
+2026-01-01,W.P. Putrajaya,both,overall,overall,118.8
+2026-01-01,W.P. Putrajaya,male,overall,overall,60.6
+2026-01-01,W.P. Putrajaya,female,overall,overall,58.2
